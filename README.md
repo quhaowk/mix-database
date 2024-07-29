@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-composer require mix/database
+composer require haoa/mix-database
 ```
 
 ## Quick start
